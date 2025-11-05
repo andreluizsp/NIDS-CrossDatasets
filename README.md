@@ -1,4 +1,5 @@
-# Network Intrusion Detection Systems With Domain Adaptation
+# Network Intrusion Detection: A Cross-Dataset
+# Approach Based on Latent Space Representations
 
 <div align="justify">
 
