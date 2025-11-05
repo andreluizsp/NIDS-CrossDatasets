@@ -1,5 +1,4 @@
-# Network Intrusion Detection: A Cross-Dataset
-# Approach Based on Latent Space Representations
+# Network Intrusion Detection: A Cross-Dataset Approach Based on Latent Space Representations
 
 <div align="justify">
 
