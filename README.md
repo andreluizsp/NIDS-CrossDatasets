@@ -30,16 +30,21 @@ This will create a new directory called "NIDS-With-DA" containing the following 
 $ ls
 
   <b>MLP_4_E10-26Features-FineTunning.ipynb</b><br>
+  
     Jupyter Notebook: This notebook demonstrates a traditional Machine Learning model (using an MLP) 
   
   <b>1AE_MLP_4_Ambos_512_E10_100_26Features_16LatentSpace-Cos3.ipynb</b><br>
+  
     Jupyter Notebook: This notebook demonstrates a proposed model using 1 AutoEncoder
     
   <b>2AE_MLP_4_Ambos-512-512-E10-100_26Features_16LatentSpace-Cos3.ipynb</b><br>
+  
     Jupyter Notebook: This notebook demonstrates a proposed model using 2 AutoEncoder 
     
-  <b>3AE_MLP_4_Ambos-512-512-512-E10-100_26Features_16LatentSpace-Cos3.ipynb</b>
+  <b>3AE_MLP_4_Ambos-512-512-512-E10-100_26Features_16LatentSpace-Cos3.ipynb</b><br>
+  
     Jupyter Notebook: This notebook demonstrates a proposed model using 3 AutoEncoder 
 
-  <b>4AE_MLP_4_Ambos-512-512-512-512-E10-100_26Features_16LatentSpace-Cos3.ipynb</b>
+  <b>4AE_MLP_4_Ambos-512-512-512-512-E10-100_26Features_16LatentSpace-Cos3.ipynb</b><br>
+  
     Jupyter Notebook: This notebook demonstrates a proposed model using 4 AutoEncoder 
