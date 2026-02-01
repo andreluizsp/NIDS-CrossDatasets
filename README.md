@@ -21,7 +21,7 @@
 
 # Project Setup
 
-Start by cloning the project (Install git: https://git-scm.com/download):
+1) Start by cloning the project (Install git: https://git-scm.com/download):
 
 Shell: # git clone --depth=1 https://github.com/andreluizsp/NIDS-With-DA.git && cd NIDS-With-DA
 
@@ -30,13 +30,13 @@ $ ls
 MLP_4_E10-26Features-FineTunning.ipynb
 ...
 
-To open and run the notebook locally, it is recommended to use JupyterLab. After ensuring that Python and JupyterLab are installed, launch the environment from the project root directory using:
+2) To open and run the notebook locally, it is recommended to use JupyterLab. After ensuring that Python and JupyterLab are installed, launch the environment from the project root directory using:
 
 $ jupyter lab
 
 Then, access the notebook MLP_4_E10-26Features-FineTunning.ipynb directly through the JupyterLab interface.
 
-Alternatively, the notebook can be executed using Google Colab. In this case, upload the .ipynb file directly to Colab or open it by providing the GitHub repository URL via File → Open notebook → GitHub. This option is particularly useful for running experiments without local environment configuration and for leveraging cloud-based computational resources.
+3) Alternatively, the notebook can be executed using Google Colab. In this case, upload the .ipynb file directly to Colab or open it by providing the GitHub repository URL via File → Open notebook → GitHub. This option is particularly useful for running experiments without local environment configuration and for leveraging cloud-based computational resources.
 
 # Notebooks
 
